@@ -2,7 +2,7 @@
 
 Planet Coin - Reclyling made Rewarding.
 
-Problem statement-Verbwire (sponsored track)
+Problem statement-Verbwire
 
 "Limited resources and lack of incentives often prevent
 small businesses from implementing effective recycling
