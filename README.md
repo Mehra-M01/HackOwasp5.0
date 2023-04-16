@@ -3,6 +3,7 @@
 Planet Coin - Reclyling made Rewarding.
 
 Problem statement-Verbwire (sponsored track)
+
 "Limited resources and lack of incentives often prevent
 small businesses from implementing effective recycling
 programs, resulting in increased waste and missed
@@ -10,6 +11,7 @@ opportunities for businesses to promote their social and
 environmental responsibility".
 
 Solution
+
 "The project aims to address this problem by
 creating a secure and transparent smart
 contract on a blockchain platform that enables
@@ -19,6 +21,7 @@ sustainability and benefiting both businesses
 and customers."
 
 Tech Stack
+
 . Solidity and Ethereum:
 Solidity is a popular programming language used for writing smart
 contracts on the Ethereum blockchain. Ethereum is the most widely
@@ -28,6 +31,7 @@ Ethereum includes tools like Remix IDE, Truffle Framework, and
 Web3.js.
 
 Use Cases
+
 A smart contract can be used for recycling to incentivize individuals to recycle by rewarding them with
 digital tokens that can be exchanged for goods or services. Here's an example scenario:
 Let's say there is a small business that sells environmentally-friendly products, such as reusable water
